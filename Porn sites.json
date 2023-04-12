@@ -1,7 +1,7 @@
 {
-	links [
-	
-		Common Porn Domains {
+      "links": [ 
+	      
+		Common Porn Domains
 			"https://*.mx/*"
 			"https://*.xxx/*"
 			"https://*.pro/*"
@@ -2543,6 +2543,5 @@
 			"https://duckduckgo.com/?q=*+kenc+*
 			"https://duckduckgo.com/?q=*fire+play+*
 			"https://duckduckgo.com/?q=*philia*"
-		]
-	}
+	]
 }
