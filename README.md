@@ -32,4 +32,4 @@ And 8 common search domains for porn sites.
 
 #Reason- 
 
- I collected all of these porn sites and search suggestions, for the ease of porn blockers. There are a lists from others like, [hengkiardo's](https://github.com/hengkiardo/blocked-sites) and [levelel's](https://github.com/levelel/porndude_site_list), but mine is longer with a lot more shit.
+ I collected all of these porn sites and search suggestions for the ease of porn blockers. There are lists from others like, [hengkiardo's](https://github.com/hengkiardo/blocked-sites) and [levelel's](https://github.com/levelel/porndude_site_list), but mine is longer with a lot more shit.
