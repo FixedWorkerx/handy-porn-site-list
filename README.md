@@ -1,4 +1,4 @@
-#Info:-
+# Info:-
 
 Lots of these sites in this list may be 'suspicious', 'weird', 'wrong', gross, etc. So I'm going to attempt to clear my name straight away. 
 I want to make it known that I've not known any of the sites previously besides the ones on the following list-
@@ -30,6 +30,6 @@ There are 1196 porn sites, 122 subreddits, 165 reddit search suggestions, and 28
 And 8 common search domains for porn sites.
 
 
-#Reason- 
+# Reason- 
 
  I collected all of these porn sites and search suggestions for the ease of porn blockers. There are lists from others like, [hengkiardo's](https://github.com/hengkiardo/blocked-sites) and [levelel's](https://github.com/levelel/porndude_site_list), but mine is longer with a lot more shit.
