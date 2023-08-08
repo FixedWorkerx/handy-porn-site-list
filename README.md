@@ -25,7 +25,7 @@ So, the reason I say all this is to say; I do not know any site in this list tha
 These sites were all sourced using these searching methods: [Duckduckgo](https://duckduckgo.com), [Bing](https://bing.com), [Reddit](https://reddit.com), and [Google](https://google.com),
 as well as a few porn site lists.
 
-The links in this list were found and written down throughout 13/03/2023 and 17/03/2023, and again on 02/04/2023 and 03/04/2023, over a few hours a day.
+The links in this list were found and written down throughout March/13th/2023 and March/17th/2023, and again on 2nd/April/2023 and the 3rd/April/2023, over a few hours a day.
 There are 1,197 porn sites, 122 subreddits, 165 reddit search suggestions, and 306 search suggestions each for Duckduckgo, Google, and Bing.
 And 7 common search domains for porn sites.
 
